@@ -28,4 +28,4 @@ remote 80-as portot.
  ssh -L 8080:127.0.0.1:80 agile@10.0.0.3
 ```
 
-![GitHub Logo](/images/local-port-forwarding-webserver.PNG)
+![Local port forwarding webszerver](./images/local-port-forwarding-webserver.PNG)
