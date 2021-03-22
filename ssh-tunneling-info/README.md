@@ -2,11 +2,13 @@
 A következőekben a GNS3 teszkörnyezetben kipróbálható parancsokkal
 szemléltetem a különböző port forwarding technikákat.
 
-##Teszt környezet infó
-| Gép neve | IP |
-| HOME_PC | 192.168.0.1 |
-| CLOUD | 10.0.0.3 |
-| REMOTE_PC | 10.0.0.2 |
+## Teszt környezet infó
+
+Gép neve | IP
+------------ | -------------
+HOME_PC | 192.168.0.1
+CLOUD | 10.0.0.3
+REMOTE_PC | 10.0.0.2
 
 
 
