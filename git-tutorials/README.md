@@ -25,3 +25,25 @@ git clone <SSH clone string> formában, tehát ezt fogod majd összeollózni:
 ```
 git clone git@github.com:barkasz/agile-masters-test.git
 ```
+
+## Munkához szükséges alapvető git parancsok
+- git clone
+```
+git clone git@github.com:barkasz/agile-masters-test.git
+```
+
+- git add
+- git status
+- git commit
+- git pull
+- git push
+- git log
+- git reset
+
+## Branch kezelés
+- git branch
+- git checkout
+- git merge
+
+https://learngitbranching.js.org/
+https://nvie.com/posts/a-successful-git-branching-model/
