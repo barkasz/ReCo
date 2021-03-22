@@ -84,7 +84,7 @@ távoli gépeket.
  sudo nano /etc/proxychains.conf  # legyen egy ilyen sor a configban, ha nem lenne: socks4 127.0.0.1 9050
 
  # dynamic tunnel
- ssh -R 8888:127.0.0.1:80 agile@10.0.0.2
+  ssh -D 9050 agile@10.0.0.3
 
  # távoli gép elérése a tunnelen keresztül
  proxychains ssh agile@10.0.0.2
