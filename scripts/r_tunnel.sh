@@ -2,7 +2,7 @@
 
 ip=10.0.0.3
 echo "Creating tmux session..."
-echo "Attache to the session with below command:"
+echo "Attach to the session with the below command:"
 echo "tmux a -t home_session"
 tmux new -d -s "home_session"
 echo "Building tunnel to: $ip"
