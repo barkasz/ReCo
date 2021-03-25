@@ -7,7 +7,7 @@ https://guides.github.com/features/mastering-markdown/
 
 # Tunnel building
 
-From *HOME_PC* run the following command to build the remote port forwarding tunnel to *CLOUD*:
+From *HOME_PC* run the following command to build the remote port forwarding tunnel to *CLOUD*. The command starts a __TMUX__ session with "home_session" name.
 ```
 ./r_tunnel.sh
 ```
